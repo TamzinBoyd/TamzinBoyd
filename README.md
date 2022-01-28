@@ -7,20 +7,28 @@ I'm Tamzin, a junior front-end developer with experience in the following:
 * Javascript (ES6)
 * Node.js
 
+Excited about starting a career in software development.
+
 I'm currently learning:
 
 * React
 
+What I want to learn soon:
+
+* Typescript
+* WordPress
+
 Here's some of my favourite projects:
 
-- https://github.com/TamzinBoyd/Nology-coursework/tree/main/03-Javascript/Hangman-Game
 - [Hangman Game](https://github.com/TamzinBoyd/Nology-coursework/tree/main/03-Javascript/Hangman-Game)
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Pokemon Generator using API fetch request](https://github.com/TamzinBoyd/Nology-coursework/tree/main/03-Javascript/Pokedex)
 
+🐎 Other interests 
+ * Horse riding
+ * Graphic design
+ * Painting
 
-- 🔭 I’m currently working on ...
+💬 Ask me about anything!
+📫 How to reach me: 
+* [Linked In](https://www.linkedin.com/in/tamzinboyd/)
+
