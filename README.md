@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**TamzinBoyd/TamzinBoyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tamzin, a junior front-end developer with experience in the following:
 
-Here are some ideas to get you started:
+* HTML
+* CSS & SASS
+* Javascript (ES6)
+* Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+I'm currently learning:
+
+* React
+
+Here's some of my favourite projects:
+
+- https://github.com/TamzinBoyd/Nology-coursework/tree/main/03-Javascript/Hangman-Game
+- [Hangman Game](https://github.com/TamzinBoyd/Nology-coursework/tree/main/03-Javascript/Hangman-Game)
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on ...
