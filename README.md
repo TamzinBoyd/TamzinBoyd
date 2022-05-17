@@ -8,11 +8,11 @@ I'm Tamzin, a junior front-end developer with experience in the following:
 * Node.js
 * React JS
 
-Excited about starting a career in software development.
+I'm excited about starting a career in software development.
 
-I'm currently learning:
+I'm currently working on:
 
-* Firebase / backend development
+* A full stack application for the rehoming of pets
 
 What I want to learn:
 
@@ -21,15 +21,17 @@ What I want to learn:
 
 Here's some of my favourite projects:
 
-- [Hangman Game](https://github.com/TamzinBoyd/Nology-coursework/tree/main/03-Javascript/Hangman-Game)
-- [Pokemon Generator using API fetch request](https://github.com/TamzinBoyd/Nology-coursework/tree/main/03-Javascript/Pokedex)
+- [Hangman Game](https://tamzinboyd.github.io/Hangman/)
+- [Punk API](https://tamzinboyd.github.io/punkAPI/)
+- [Calculator](https://tamzinboyd.github.io/Calculator/)
 
 Other interests 
  🐎 Horse riding
- * Graphic design
- * Painting
+ 🚶‍♀️ Hiking
+ 👩‍💻 Graphic design
+ 🎨 Painting
 
 💬 Ask me about anything!
 📫 How to reach me: 
-* [Linked In](https://www.linkedin.com/in/tamzinboyd/)
+* [Linked In](https://www.linkedin.com/in/tamzin-boyd-dev/)
 
